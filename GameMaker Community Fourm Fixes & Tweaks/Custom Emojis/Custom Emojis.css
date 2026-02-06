@@ -1,0 +1,74 @@
+/* EMOJI */
+/* 1: like, 2: love, 3: laugh, 4: wow, 8: think, 5: sad, 6: angry, 7: dislike */
+/* https://github.com/joypixels/emoji-assets */
+
+
+
+/* love */
+.reaction--2 img {
+  content: url("https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanludDgwbno1cGlqd3Jjd2xhYTl6dWtvdWFnd3g0Zmdvenp2YXBibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MdtpheU3ZD90VxrDM6/giphy.gif");
+}
+
+
+/* laugh */
+.reaction--3 img {
+  content: url("https://cdn.jsdelivr.net/gh/joypixels/emoji-assets@5.0/png/64/1f638.png");
+}
+
+
+/* wow */
+.reaction--4 img {
+  content: url("https://cdn.jsdelivr.net/gh/joypixels/emoji-assets@5.0/png/64/1f640.png");
+}
+
+
+/* Think */
+.reaction--8 img {
+    content: url("https://i.imgur.com/zAV5SjP.png");
+}
+
+.reaction--8 .reaction-sprite {
+    width: 32px;
+    height: 32px;
+    background: url("https://i.imgur.com/zAV5SjP.png") no-repeat 0px 0px;
+    background-size: 100%;
+}
+
+.reaction--small.reaction--8 .reaction-sprite {
+    width: 16px;
+    height: 16px;
+    background: url("https://i.imgur.com/zAV5SjP.png") no-repeat 0px 0px;
+    background-size: 100%;
+}
+
+
+/* sad */
+.reaction--5 img {
+    content: url("https://cdn.jsdelivr.net/gh/joypixels/emoji-assets@5.0/png/64/1f63f.png");
+}
+
+
+/* angry */
+.reaction--6 img {
+    content: url("https://cdn.jsdelivr.net/gh/joypixels/emoji-assets@5.0/png/64/1f63e.png");
+}
+
+
+/* Dislike */
+.reaction--7 img {
+	content: url("https://i.imgur.com/GWMj0JF.png");
+}
+
+.reaction--7 .reaction-sprite {
+    width: 32px;
+    height: 32px;
+    background: url("https://i.imgur.com/GWMj0JF.png") no-repeat 0px 0px;
+    background-size: 100%;
+}
+
+.reaction--small.reaction--7 .reaction-sprite {
+    width: 16px;
+    height: 16px;
+    background: url("https://i.imgur.com/GWMj0JF.png") no-repeat 0px 0px;
+    background-size: 100%;
+}

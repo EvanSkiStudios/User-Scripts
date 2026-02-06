@@ -1,0 +1,18 @@
+/* EMOJI */
+/* 1: like, 2: love, 3: laugh, 4: wow, 8: think, 5: sad, 6: angry, 7: dislike */
+/* https://github.com/joypixels/emoji-assets */
+
+
+/* Like */
+.reaction--1 img {
+  content: url("https://i.postimg.cc/v85n6nx2/1769656551751.png");
+}
+
+/* link highlights */
+.bbWrapper a.link {
+    color: #b9c5ff;
+}
+
+.bbWrapper a.link:hover {
+    color: #90A3FF;
+}

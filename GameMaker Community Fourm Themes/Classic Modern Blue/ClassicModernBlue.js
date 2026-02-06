@@ -1,0 +1,1 @@
+document.querySelector('.block[data-widget-key="forum_overview_trending_content"]')?.remove();

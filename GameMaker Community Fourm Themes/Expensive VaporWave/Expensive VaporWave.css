@@ -1,0 +1,65 @@
+/*  Requires theme to be set to cheap vaporwave
+		This is the acutal theme changes
+*/
+.p-body-inner {
+	background-image: url('https://i.redd.it/jbut5yiy0b461.gif');
+	background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.block-container {
+	background: #141414d6;
+}
+
+.contentRow-fader {
+	background: linear-gradient(to bottom, rgb(20 20 20 / 0%) 0%, #14141457 80%);
+}
+
+.block-header {
+	text-shadow: 1px 1px 2px #426067;
+	background: linear-gradient(0deg, #9c63e5, #af5dc5);
+}
+
+.p-navgroup {
+	background: rgba(13 157 242 / 56%);
+}
+
+.p-sectionLinks {
+	background: rgb(7 88 136);
+}
+
+
+.p-nav-list .p-navEl.is-selected {
+	background: rgba(13 157 242 / 56%);	
+}
+
+.button.button--cta, a.button.button--cta {
+	background: #167ac6;
+  border-color: #1654c6 #1675c6 #1675c6 #165ac6;	
+}
+
+.block-footer {
+	background: linear-gradient(180deg, #9c63e5, #af5dc5);
+}
+
+.p-footer {
+	background: rgb(13 157 242 / 56%);	
+}
+
+.block--messages .message, .block--messages .block-row {
+	background: #141414d1;	
+}
+
+.bbTable>table>thead>tr>th, .bbTable>table>tbody>tr>th {
+    /* background: #141414; */
+    background: #263f3e;
+}
+
+.message-cell.message-cell--user, .message-cell.message-cell--action {
+    position: relative;
+    background: #fdfbfb00;
+}
+
+.block--messages .message+.message, .block--messages .block-row+.message, .block--messages .message+.block-row, .block--messages .block-row+.block-row {
+    margin-top: 4px;
+}
