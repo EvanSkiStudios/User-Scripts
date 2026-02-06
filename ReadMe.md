@@ -8,3 +8,6 @@ You will need a JavasScript injector extension for your browser
 I use this one [User JavaScript and CSS](https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld)
 
 
+# List of Misc Scripts
+[Fix Twitter Embeds](https://github.com/EvanSkiStudios/User-Scripts/Misc/Fix%20Twitter%20Embeds.js)  
+[Text Copier](https://github.com/EvanSkiStudios/User-Scripts/Misc/Text%20Copier.js)  
