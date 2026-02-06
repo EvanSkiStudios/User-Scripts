@@ -1,7 +1,8 @@
 # User-Scripts
 
 A collection of user scripts I've made for diffrent sites and things.  
-[See my posted Scripts](https://itch.io/c/6947033/evanski-user-scripts)
+[See my posted Scripts](https://itch.io/c/6947033/evanski-user-scripts)  
+[See the Fourm post](https://forum.gamemaker.io/index.php?threads/evanski-custom-forum-themes-and-user-scripts.122466/)  
 
 # How to use
 You will need a JavasScript injector extension for your browser  
