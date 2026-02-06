@@ -17,6 +17,9 @@ I use this one [User JavaScript and CSS](https://chrome.google.com/webstore/deta
 # List of GMC Themes
 https://forum.gamemaker.io/index.php  
   
+These are not endorsed, made, or promoted by GameMaker, Nocturne, or YoYo Games  
+These are made independently and by myself  
+  
 [Classic Modern Blue](https://github.com/EvanSkiStudios/User-Scripts/tree/main/GameMaker%20Community%20Fourm%20Themes/Classic%20Modern%20Blue)  
 [Classic Modern Pink](https://github.com/EvanSkiStudios/User-Scripts/tree/main/GameMaker%20Community%20Fourm%20Themes/Classic%20Modern%20Pink)  
 [Cyan Theme](https://github.com/EvanSkiStudios/User-Scripts/tree/main/GameMaker%20Community%20Fourm%20Themes/Cyan%20Theme)  
