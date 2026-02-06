@@ -11,3 +11,12 @@ I use this one [User JavaScript and CSS](https://chrome.google.com/webstore/deta
 # List of Misc Scripts
 [Fix Twitter Embeds](https://github.com/EvanSkiStudios/User-Scripts/blob/main/Misc/Fix%20Twitter%20Embeds.js)  
 [Text Copier](https://github.com/EvanSkiStudios/User-Scripts/blob/main/Misc/Text%20Copier.js)  
+
+
+# List of GMC Themes
+https://forum.gamemaker.io/index.php  
+  
+[Classic Modern Blue](https://github.com/EvanSkiStudios/User-Scripts/tree/main/GameMaker%20Community%20Fourm%20Themes/Classic%20Modern%20Blue)  
+[Classic Modern Pink](https://github.com/EvanSkiStudios/User-Scripts/tree/main/GameMaker%20Community%20Fourm%20Themes/Classic%20Modern%20Pink)  
+[Cyan Theme](https://github.com/EvanSkiStudios/User-Scripts/tree/main/GameMaker%20Community%20Fourm%20Themes/Cyan%20Theme)  
+[Expensive VaporWave](https://github.com/EvanSkiStudios/User-Scripts/tree/main/GameMaker%20Community%20Fourm%20Themes/Expensive%20VaporWave)  
