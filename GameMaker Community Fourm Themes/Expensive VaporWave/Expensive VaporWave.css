@@ -2,9 +2,10 @@
 		This is the acutal theme changes
 */
 .p-body-inner {
-	background-image: url('https://i.redd.it/jbut5yiy0b461.gif');
+	background-image: url('https://i.pinimg.com/originals/90/af/e9/90afe999289fd34ca9faf8ecec68a8fb.gif');
 	background-repeat: no-repeat;
   background-attachment: fixed;
+  background-size: cover;
 }
 
 .block-container {
@@ -62,4 +63,35 @@
 
 .block--messages .message+.message, .block--messages .block-row+.message, .block--messages .message+.block-row, .block--messages .block-row+.block-row {
     margin-top: 4px;
+}
+
+.bbCodeBlock {
+    background: #0a0a0ad6;
+    border: 2px solid #000000d6;
+    border-left: 6px solid #dd6dfb;
+}
+
+
+.bbCodeBlock-title {
+	  color: #dd6dfb;
+    background: #05050533;
+}
+
+.bbCodeBlock-expandLink a {
+    color: #dd6dfb;
+}
+
+.reactionsBar {
+    border: 2px solid #0a0a0ad6;
+    border-left: 4px solid #dd6dfb;
+}
+
+.button.button--link, a.button.button--link {
+    background: #000000;
+    color: #6feae6;
+    border-color: #dd6dfb #b056c7 #b056c7 #dd6dfb;
+}
+
+.fa--xf svg {
+    color: #b056c7;
 }
